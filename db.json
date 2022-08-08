@@ -1,11 +1,33 @@
 {
-  "posts": [
+    "leaders": 
     {
-      "id": 1,
-      "title": "hello"
+        "scores":   [
+            {
+              "userId": 1,
+              "value": 5
+            },
+            {
+              "userId":2,
+              "value": 2
+            },
+            {
+              "userId":3,
+              "value": 4
+            },
+            {
+              "userId":4,
+              "value": 14
+            },
+            {
+              "userId":5,
+              "value": 10
+            }
+              ] 
+    },
+    "users":{
+
+    },
+    "Achievements":{
+
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
-}
