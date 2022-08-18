@@ -1,33 +1,32 @@
 {
-    "leaders": 
+    "leaderboard":
     {
         "scores":   [
             {
-              "userId": 1,
-              "value": 5
+                "userId": 1,
+                "value": 2,
+                "name": "Mariana"
             },
             {
-              "userId":2,
-              "value": 2
+                "userId":2,
+                "value": 2,
+                "name": "Valentina"
             },
             {
-              "userId":3,
-              "value": 4
+                "userId":3,
+                "value": 4,
+                "name": "Juanse"
             },
             {
-              "userId":4,
-              "value": 14
+                "userId":4,
+                "value": 8,
+                "name": "Pipe"
             },
             {
-              "userId":5,
-              "value": 10
+                "userId":5,
+                "value": 10,
+                "name": "Paulina"
             }
-              ] 
-    },
-    "users":{
-
-    },
-    "Achievements":{
-
+        ] 
     }
   }
